@@ -8,7 +8,7 @@ design:
   spacing: "6rem"
 
 sections:
- - block: hero
+  - block: hero
     content:
       title: "**Reimagining Mental Health Prevention through Immersive Technologies**"
       announcement:
