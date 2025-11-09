@@ -62,13 +62,4 @@ sections:
         group sessions in social VR with guided home exercises. IPC4MH focuses on **safety,
         accessibility, and evidence**—integrating with established care pathways rather than
         replacing them.
-
-  - block: hero
-    content:
-      title: "Funding"
-      image:
-        filename: THCS_Logo.jpg
-      text: |
-        <br>
-        Supported under the THCS Partnership; views expressed are those of the authors.
-    ---
+---
